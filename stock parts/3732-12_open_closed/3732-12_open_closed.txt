@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-14012013-060957";"";
+"REFERENCE";"3732-12";"";
+"TraceParts.PartTitle";"Model 3732 – Full extension, loads up to 100 lbs. (45 kg) per pair, latch disconnect, hold-in detent.";"";
+"TraceParts.InstanceId";"10-14012013-060957AW0YIMX40TKOJDOBSSQGRJ4Q7";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartVersion";"1.1.5";"";
+"SUPPLIER";"ACCURIDE";"";
+"DESIGN";"Part Number:3732-12, Length:11.81 [300], Travel:11.50 [292] (inches [mm])";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"ACCURIDE:/F_ACCURIDE/ACCURIDE.030/ACCURIDE.030.040/10-14012013-060957";"";
